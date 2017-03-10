@@ -8,7 +8,7 @@
     "test": "mocha --reporter spec --compilers ts:ts-node/register test/**/*.test.ts"
   },
   "keywords": [],
-  "author": "",
+  "author": "saj",
   "license": "ISC",
   "devDependencies": {
     "@types/chai": "^3.4.34",
