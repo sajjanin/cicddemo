@@ -37,7 +37,7 @@ class App {
     // placeholder route handler
     router.get('/', (req, res, next) => {
       res.json({
-        message: 'Hello World from Heroku!'
+        message: 'Hello World from Heroku! Demo'
       });
     });
     this.express.use('/', router);
